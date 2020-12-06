@@ -7,3 +7,5 @@
  */
 
 echo "hellow vagrant";
+
+$a="change";
